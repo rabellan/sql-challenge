@@ -8,7 +8,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 
 ## Data Modeling ##
-Data modeling information here.
+![Data modeling information here.](https://github.com/rabellan/sql-challenge/blob/main/images/QuickDBD-employee_db.png)
 
 ## Data Engineering ##
 Data Engineering information here
