@@ -24,7 +24,7 @@ pgAdmin 4
 ![Data modeling information here.](https://github.com/rabellan/sql-challenge/blob/main/images/QuickDBD-employee_db.png)
 
 ## Data Engineering ##
-![The schema of employee_db can be found here](https://github.com/rabellan/sql-challenge/blob/main/EmployeeSQL/schema.sql)
+[The schema of employee_db can be found here](https://github.com/rabellan/sql-challenge/blob/main/EmployeeSQL/schema.sql)
 
 ## Data Analysis ##
 
