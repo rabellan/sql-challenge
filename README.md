@@ -6,6 +6,16 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
+## Data Sources and Other Resources ##
+
+Data Source:
+[Six csv files](https://github.com/rabellan/sql-challenge/tree/main/data)
+
+Software:
+
+PostreSQL
+pgAdmin 4
+[Quick DBD](https://www.quickdatabasediagrams.com/)
 
 ## Data Modeling ##
 ![Data modeling information here.](https://github.com/rabellan/sql-challenge/blob/main/images/QuickDBD-employee_db.png)
