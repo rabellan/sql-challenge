@@ -39,3 +39,21 @@ JOIN
     employee e ON dm.emp_no = e.emp_no
 JOIN
     department d ON dm.dept_no = d.dept_no;
+	
+
+-- List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
+-- for this query, I must join the following table:
+-- dept_emp WITH employee ON emp_no
+-- dept_emp WITH department ON dept_no
+-- Result: There are 331603 records from this query
+SELECT
+    de.emp_no AS employee_number,
+    e.last_name,
+    e.first_name,
+    d.dept_name AS department_name
+FROM
+    dept_emp de
+JOIN
+    employee e ON de.emp_no = e.emp_no
+JOIN
+    department d ON de.dept_no = d.dept_no;
