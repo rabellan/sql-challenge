@@ -17,6 +17,7 @@ Data Engineering information here
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
     Result: There are 300024 records from this query
+    ![List of employee number, last name, first name, sex, and salary of each employee](https://github.com/rabellan/sql-challenge/blob/main/images/Question1.png)
 
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
 
