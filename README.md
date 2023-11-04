@@ -28,6 +28,8 @@ pgAdmin 4
 
 ## Data Analysis ##
 
+[The sql file containing all the analysis queries can be found here](https://github.com/rabellan/sql-challenge/blob/main/EmployeeSQL/employee_db_analysis.sql)
+
 1. List the employee number, last name, first name, sex, and salary of each employee.
     Result: There are 300024 records from this query
     ![List of employee number, last name, first name, sex, and salary of each employee](https://github.com/rabellan/sql-challenge/blob/main/images/Question1.png)
