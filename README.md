@@ -9,12 +9,15 @@ For this project, you’ll design the tables to hold the data from the CSV files
 ## Data Sources and Other Resources ##
 
 Data Source:
+
 [Six csv files](https://github.com/rabellan/sql-challenge/tree/main/data)
 
 Software:
 
 PostreSQL
+
 pgAdmin 4
+
 [Quick DBD](https://www.quickdatabasediagrams.com/)
 
 ## Data Modeling ##
